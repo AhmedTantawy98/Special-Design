@@ -185,7 +185,7 @@ body {
 .landing-page {
     min-height: 100vh;
     position: relative;
-    background-image: url(/imgs/01.jpg);
+    background-image: url(../imgs/01.jpg);
     background-size: cover;
 }
 .landing-page .overlay {
@@ -729,7 +729,7 @@ body {
 /* Start Contact */
 .contact {
     position: relative;
-    background-image: url(../imgs/06.png);
+    background-image: url(../imgs/contact.png);
     background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
