@@ -729,7 +729,7 @@ body {
 /* Start Contact */
 .contact {
     position: relative;
-    background-image: url(imgs/contact.png);
+    background-image: url(../imgs/06.png);
     background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
